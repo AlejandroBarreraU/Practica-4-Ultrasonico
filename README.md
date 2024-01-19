@@ -2,10 +2,10 @@
 ## Introducción
 En este práctica se muestra como podemos programar una ESP32 con el sensor ULTRASONICO y un display LCD.
 ## Material a utilizar
-WOKWI
-Tarjeta ESP32
-Sensor HC-SR04
-Display LCD16x2(I2C)
+ WOKWI
+ Tarjeta ESP32
+ Sensor HC-SR04
+ Display LCD16x2(I2C)
 ## Intrucciones
 ### Requisitos previos
 Para esta práctica utilizaremos el simulador WOKWI.
