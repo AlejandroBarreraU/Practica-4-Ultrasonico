@@ -64,12 +64,19 @@ void loop()
 ```
 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
    
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/instalar%20librerias.png?raw=true)
 3.Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/instalar%20librerias%202.png?raw=true)
 4. Agregamos LCD y HC-SR04.
+
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/agrear%20lcd.png?raw=true)
+
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/a%C3%B1adimos%20ultra.png?raw=true)
 ## Conexiones
+Se realizan las siguientes conexiones.
+
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/conexiones%20ultra.png?raw=true)
 
 ## Instrucciones de operación
 1. Iniciar simulador.
@@ -77,6 +84,9 @@ void loop()
 3. Colocar la distancia dando doble click al sensor HC-SR04
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
-![]()
+
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/resultados%20ultra%202.png?raw=true)
+
+![](https://github.com/AlejandroBarreraU/Practica-4-Ultrasonico/blob/main/resultados%20ultra%201.png?raw=true)
 ## Créditos
 Desarrollado por el Ing. Alejandro Barrera
